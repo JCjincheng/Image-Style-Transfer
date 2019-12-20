@@ -8,3 +8,7 @@ Finally, we applied our final model to different content and style images, resul
 The goal of this project is to add a painting filter to a photo, which transfers the style of a painting to a photo. 
 The main focus of our work is to turn the paper’s methods into realization in Python, and at the same time, to test different parameters and compare their results. 
 We also want to practice our deep learning skills and coding skills, especially in Tensorflow.
+
+Reference:
+[1] Gatys, L. A., Ecker, A. S., & Bethge, M. (2016) Image Style Transfer Using Convolutional Neural Networks.
+2016 IEEE Conference on Computer Vision and Pattern Recognition (CVPR). doi: 10.1109/cvpr.2016.265
